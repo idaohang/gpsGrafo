@@ -1,4 +1,4 @@
 gpsGrafo
 ========
 
-Implementação de um GPS utilizando gratos.
+Implementação de um GPS utilizando grafos.
